@@ -8,3 +8,4 @@ nix:
 extra-deps:
 - beam-core-0.8.0.0
 - beam-mysql-0.2.0.0
+- serverless-haskell-0.9.1
