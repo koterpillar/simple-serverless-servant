@@ -1,5 +1,3 @@
-org: jimbo4350
-app: minimal-example-rds
 service: serverless-minimal-example-rds
 
 provider:
