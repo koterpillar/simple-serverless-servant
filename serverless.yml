@@ -10,7 +10,7 @@ provider:
 
 functions:
   apigw:
-    handler: serverless-haskell-example.api-exe
+    handler: serverless-haskell-example.apigw
     events:
       - http:
           path: item/test
